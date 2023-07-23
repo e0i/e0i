@@ -1,7 +1,7 @@
 
 ﻿
 <div align="center">
-  <img src="https://api.status.gg/discord/595431204426219530">
+  <img src="https://api.status.gg/discord/553089222551142409">
 
 </div>
 <br>
