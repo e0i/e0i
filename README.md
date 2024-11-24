@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/last-commit/e0i/rage-nuker?label=Last%20commit&style=for-the-badge&logo=github&color=blue">
   </a>
   <a href="https://github.com/e0i?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-7-blue?style=for-the-badge" alt="Repositories">
+    <img src="https://img.shields.io/badge/Repositories-530592537-blue?style=for-the-badge" alt="Repositories">
   </a>
 
 </div>
